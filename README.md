@@ -1,3 +1,5 @@
+A DPI-accurate on-screen ruler for professionals and workflows — Windows app.
+
 # PixyScale 📏  
 ### DPI-Accurate On-Screen Ruler for Professional Workflows
 
