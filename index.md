@@ -1,3 +1,5 @@
+# PixyScale - DPI-Accurate Screen Ruler
+
 **The Problem:** You need to measure real-world dimensions (cm, mm, inches) on your screen, but online rulers ignore DPI and multi-monitor setups give inaccurate results.
 
 **The Solution:** PixyScale is a DPI-calibrated screen ruler that matches physical measurements exactly — even across multiple monitors with different DPIs.
