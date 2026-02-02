@@ -1,0 +1,38 @@
+# Site settings
+title: "PixyScale - DPI-Accurate Screen Ruler"
+description: "Pixel-perfect screen measurements with multi-monitor DPI calibration. Built for 3D artists, architects, and designers."
+author: "Ritik Parmar"
+url: "https://diamondray99.github.io"
+baseurl: "/PixyScale"
+
+# Theme (GitHub Pages supported themes)
+theme: minima
+# Or use remote_theme if using other themes:
+# remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO settings
+twitter:
+  username: your_twitter_handle
+  card: summary_large_image
+
+logo: /assets/logo.png
+
+social:
+  name: Ritik Parmar
+  links:
+    - https://github.com/diamondray99
+    - https://ritikparmar.gumroad.com
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
