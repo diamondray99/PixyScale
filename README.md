@@ -31,6 +31,16 @@ PixyScale solves this by using **DPI-accurate calibration per screen**, ensuring
 
 ---
 
+## 📥 Installation
+
+Download it from:
+
+👉 Microsoft Store: https://apps.microsoft.com/detail/9p0df2b6zvng
+
+👉 License & unlock via Gumroad: https://ritikparmar.gumroad.com/l/pixyscale
+
+---
+
 ## ✨ Key Features
 
 - 📐 **DPI-accurate calibration** (matches physical ruler measurements)
@@ -42,6 +52,15 @@ PixyScale solves this by using **DPI-accurate calibration per screen**, ensuring
 - 📊 Multiple rulers simultaneously
 - 🎨 Themes: Light, Dark, Blueprint
 - 🧭 System tray control for easy management
+
+---
+
+## 📌 Use Cases
+
+- Check real-life spacing while designing UI layouts.
+- CAD and blueprint screen measurement.
+- Multi-monitor physical scale validation.
+- Quality assurance for screen based elements.
 
 ---
 
