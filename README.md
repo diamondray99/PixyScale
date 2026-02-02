@@ -7,6 +7,7 @@ PixyScale is a **DPI-aware, multi-monitor on-screen ruler for Windows** that mat
 
 Unlike online rulers or screenshot-based tools, PixyScale is built for **accuracy, consistency, and repeated professional use** — especially on high-DPI and multi-monitor setups.
 
+TL;DR: PixyScale is a DPI‑accurate on‑screen screen ruler (pixel ruler) for Windows 10/11 with multi‑monitor support, real‑world units (cm/mm/inch), and a 7‑day free trial via Microsoft Store.
 ---
 
 ## 🚩 The Problem
@@ -77,9 +78,9 @@ PixyScale is designed for professionals who rely on precise screen measurements:
 
 ## 🔄 PixyScale vs Online Rulers
 
-| Online Rulers | PixyScale |
+| Online screen rulers / browser rulers | PixyScale |
 |-------------|----------|
-| Ignore DPI | DPI-accurate |
+| Ignore DPI | Native Windows on‑screen ruler (DPI‑accurate) |
 | Single-screen assumptions | Multi-monitor aware |
 | One-time use | Workflow-ready |
 | Browser-based | Native Windows app |
