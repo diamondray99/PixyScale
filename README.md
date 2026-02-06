@@ -26,14 +26,16 @@ When you search for "on-screen ruler," you find many free tools. **They all have
 ## 🎬 See It In Action
 
 ### Proof of Accuracy: Matches Physical Reality  
-See how PixyScale's automatic DPI calibration ensures it matches a real-world ruler exactly.
+See how PixyScale's automatic DPI calibration ensures it matches a real-world ruler exactly.  
+*Click the image below to watch the video on YouTube:*
 
 [![Watch the visiting card demo](https://img.youtube.com/vi/PpQqUfbkjL4/0.jpg)](https://www.youtube.com/watch?v=PpQqUfbkjL4)
 
 *A standard visiting card measured with a physical ruler and PixyScale. The measurements are identical.*
 
 ### Real Workflow: Measuring a 3D Model  
-See PixyScale in action—measuring a 3D model with multiple rulers, rotation, and themes.
+See PixyScale in action—measuring a 3D model with multiple rulers, rotation, and themes.  
+*Click the image below to watch the video on YouTube:*
 
 [![Watch the 3D model demo](https://img.youtube.com/vi/D9RwYQe6I24/0.jpg)](https://www.youtube.com/watch?v=D9RwYQe6I24)
 
