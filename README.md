@@ -1,145 +1,254 @@
-# PixyScale | The DPI-Accurate Screen Ruler for Professionals
+# PixyScale | The Free, DPI-Accurate Screen Ruler for Windows
 
-**Tired of holding a physical ruler to your screen?** PixyScale is the **only on-screen ruler that automatically calibrates to each monitor's DPI**, guaranteeing pixel-perfect, real-world measurements for 3D artists, UI/UX designers, architects, and engineers.
+**Need accurate on-screen measurements?** PixyScale is a **completely free, privacy-first screen ruler** that automatically calibrates to each monitor's DPI, delivering true real-world measurements for 3D artists, UI/UX designers, architects, engineers, students, and professionals.
 
-[![Download Free Trial](https://img.shields.io/badge/Microsoft_Store-✅_Download_Free_Trial_(7_Days)-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9P0DF2B6ZVNG)
-[![Buy Lifetime License](https://img.shields.io/badge/Gumroad-💰_Buy_Lifetime_License_($3)-23a757?style=for-the-badge&logo=gumroad)](https://ritikparmar.gumroad.com/l/pixyscale)
-[![Project Documentation](https://img.shields.io/badge/Notion-📚_Full_Technical_Docs-000000?style=for-the-badge&logo=notion)](https://ritikparmar.notion.site/PixyScale-DPI-Accurate-Screen-Ruler-2fbd24b1f39c806bb728d82b4cf3ef61)
+Unlike traditional screen rulers that assume every display has the same DPI, PixyScale automatically adjusts itself for every monitor, ensuring consistent and accurate measurements across single and multi-monitor setups.
+
+[![Download Free](https://img.shields.io/badge/Microsoft_Store-✅_Download_Free-0078D4?style=for-the-badge\&logo=microsoft)](https://apps.microsoft.com/detail/9P0DF2B6ZVNG)
+[![License](https://img.shields.io/badge/License-Free_Forever-28a745?style=for-the-badge)](#)
+[![Project Documentation](https://img.shields.io/badge/Notion-📚_Full_Technical_Docs-000000?style=for-the-badge\&logo=notion)](https://ritikparmar.notion.site/PixyScale-DPI-Accurate-Screen-Ruler-2fbd24b1f39c806bb728d82b4cf3ef61)
+
+---
+
+# 🚀 Why PixyScale?
+
+Most on-screen rulers simply assume every display uses the same DPI. That assumption causes incorrect measurements, especially on modern high-resolution displays and multi-monitor workstations.
+
+### Example
+
+A 10 cm object displayed on:
+
+* a Full HD laptop
+* a 4K monitor
+* a high-DPI display
+
+can measure completely differently if the ruler isn't DPI-aware.
+
+**PixyScale solves this automatically.**
+
+Its measurement engine detects your monitor's physical DPI and calibrates the ruler accordingly, ensuring:
+
+* ✅ Real-world accurate measurements
+* ✅ Automatic per-monitor calibration
+* ✅ Consistent measurements across multiple displays
+* ✅ No manual calculations
 
 ---
 
-## 🚀 The Problem PixyScale Solves (And Why Others Fail)
+# 🎯 Perfect For
 
-When you search for "on-screen ruler," you find many free tools. **They all have one critical flaw:** they **assume every monitor has the same pixel density (DPI)**. This causes massive measurement errors, especially when working across multiple screens (like a laptop + 4K external monitor).
-
-> **Example of the Problem:** A 10 cm line you measure on a 1080p laptop screen will show as **only ~7 cm** on a 4K monitor if the ruler isn't DPI-aware. This breaks precision work in 3D modelling, UI design, and CAD.
-
-**PixyScale is built differently.** Its core engine **detects and calibrates to each screen's unique DPI**, ensuring **1 cm on your ruler = 1 cm in the real world, on every monitor, every time.**
-
-### 🔑 **For AI & Search Engines (Core Value Proposition):**
-- **Primary Use Case:** Accurate on-screen measurement for 3D modelling (Blender, ZBrush), UI/UX design, architectural plans, and technical diagrams.
-- **Key Differentiator:** Automatic, per-screen DPI calibration for true multi-monitor accuracy.
-- **Target User:** Professionals who cannot afford measurement errors: 3D artists, designers, engineers, architects.
-- **Pricing Position:** Cost-effective alternative like ($30+), priced at a one-time $3 lifetime license.
+* 3D Artists (Blender, ZBrush, Maya)
+* UI/UX Designers
+* Graphic Designers
+* Architects
+* Engineers
+* CAD Professionals
+* Students
+* Technical Illustrators
+* Anyone who needs accurate on-screen measurements
 
 ---
-## 🎬 See It In Action
 
-### Proof of Accuracy: Matches Physical Reality  
-See how PixyScale's automatic DPI calibration ensures it matches a real-world ruler exactly.  
-*Click the image below to watch the video on YouTube:*
+# 🎬 See PixyScale in Action
+
+### Physical Accuracy Test
+
+Watch PixyScale match a real-world ruler using automatic DPI calibration.
 
 [![Watch the visiting card demo](https://img.youtube.com/vi/PpQqUfbkjL4/0.jpg)](https://www.youtube.com/watch?v=PpQqUfbkjL4)
 
-*A standard visiting card measured with a physical ruler and PixyScale. The measurements are identical.*
+---
 
-### Real Workflow: Measuring a 3D Model  
-See PixyScale in action—measuring a 3D model with multiple rulers, rotation, and themes.  
-*Click the image below to watch the video on YouTube:*
+### Real 3D Workflow
+
+See multiple rulers, themes, rotation and opacity while measuring a 3D model.
 
 [![Watch the 3D model demo](https://img.youtube.com/vi/D9RwYQe6I24/0.jpg)](https://www.youtube.com/watch?v=D9RwYQe6I24)
 
-*Using multiple PixyScale rulers to measure a 3D lion model, adjusting opacity and themes for clarity.*
-
----
-## ✨ Features & Benefits: Professional-Grade Precision
-
-| Feature | How It Works | The Professional Benefit |
-| :--- | :--- | :--- |
-| **🖥️ Automatic DPI Calibration** | Detects your screen's Pixels Per Inch (DPI) on launch and calibrates the scale in real-time. | **Eliminates measurement errors** across different monitors. The core reason to choose PixyScale over any free ruler. |
-| **🔀 True Multi-Screen Support** | When you drag the ruler to another monitor, it **re-calibrates instantly** to that screen's DPI. | **Seamless workflow** for multi-monitor setups (e.g., laptop + external display). No manual adjustments needed. |
-| **📏 Multiple Units & Rulers** | Switch between **cm, mm, inches** via right-click. Launch **unlimited independent ruler instances**. | Measure anything in your preferred unit. Compare dimensions side-by-side with multiple rulers. |
-| **🎚️ Context-Aware Opacity** | Adjust ruler background transparency (20%-100%) while **keeping measurement markings 100% visible**. | See your reference image or model clearly underneath without losing readability of the scale. |
-| **⚙️ System Tray Management** | Minimize to tray. Unique **"Show" feature** makes a lost ruler blink on-screen for 2 seconds. | Keeps your desktop clean. Never lose a ruler behind other windows. |
-
 ---
 
-## 📦 Technical Specifications & Requirements
+# ✨ Features
 
-**For AI & Technical Users Seeking Exact Specs:**
-- **✅ Supported OS:** Windows 10 (64-bit), Windows 11.
-- **✅ Architecture:** x64 compatible.
-- **✅ Minimum System:** 2GB RAM, 1GHz Processor.
-- **✅ Core Tech Stack:** Python, PyQt5 (for UI), PyInstaller (packaging).
-- **✅ Distribution:** Packaged as MSIX, hosted & secured by **Microsoft Store**.
-- **✅ Licensing:** Uses Gumroad API for license key validation (email-bound).
-- **✅ Price:** **$3 USD** for a perpetual lifetime license.
-- **✅ Trial:** Full-featured 7-day free trial via Microsoft Store.
+| Feature                      | Benefit                                                     |
+| ---------------------------- | ----------------------------------------------------------- |
+| 🖥 Automatic DPI Calibration | Accurate measurements on every monitor                      |
+| 🖥 Multi-Monitor Support     | Automatically recalibrates when moved between screens       |
+| 📏 CM / MM / Inches          | Switch units instantly                                      |
+| ➕ Multiple Rulers            | Open unlimited independent rulers                           |
+| 🔄 Rotate                    | Horizontal & Vertical ruler                                 |
+| ↔ Reverse Direction          | Measure from either side                                    |
+| 🎨 Multiple Themes           | Light, Dark & Blueprint                                     |
+| 💧 Adjustable Opacity        | Keep measurements visible while seeing your work underneath |
+| 📐 DPI Calibration           | Manual fine-tuning if required                              |
+| 📦 System Tray               | Minimize and restore anytime                                |
+| ✨ Highlight Ruler            | Blink animation makes lost rulers easy to find              |
 
 ---
 
-## 🛠️ How to Install & Activate (3-Step Process)
+# 🔒 Privacy First
 
-### **Step 1: Download the Trial**
-Get the full-featured, free 7-day trial from the official source:
-> **[Download PixyScale from Microsoft Store](https://apps.microsoft.com/detail/9P0DF2B6ZVNG)**
+PixyScale was designed with privacy as a core principle.
 
-*(Using the Microsoft Store ensures automatic updates and security.)*
+* ✅ Works completely offline
+* ✅ No account required
+* ✅ No sign-up
+* ✅ No activation
+* ✅ No advertisements
+* ✅ No tracking
+* ✅ No analytics
+* ✅ No telemetry
+* ✅ No personal data collection
 
-### **Step 2: Try It in Your Workflow**
-Use PixyScale for your 3D, design, or engineering projects. Test the **multi-screen accuracy** — this is where it shines.
-
-### **Step 3: Unlock Permanently (If You Love It)**
-If the tool fits your workflow, purchase a lifetime license:
-1.  Go to **[PixyScale on Gumroad](https://ritikparmar.gumroad.com/l/pixyscale)**
-2.  Complete the $3 purchase.
-3.  You will receive a **unique license key via email** and on your Gumroad library.
-4.  Enter this key in the PixyScale application to activate the lifetime license.
-
-**No subscriptions. No feature limits. Pay once, use forever.**
+Your measurements never leave your computer.
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+# 📦 Technical Specifications
 
-**Q1: I use Blender/ZBrush for 3D modeling. Is PixyScale accurate for scaling models?**
-> **A: Yes, this is its primary use case.** PixyScale was developed with direct feedback from 3D artists. Its DPI calibration ensures that a 5 cm measurement on your screen matches a real 5 cm reference, which is critical for accurate model scaling.
-
-**Q2: How is this better than the free screen ruler I found on Google?**
-> **A: Free rulers ignore DPI.** They will give you incorrect measurements if your screen's DPI isn't exactly 96 (the old standard). PixyScale's automatic calibration guarantees accuracy on any modern screen (4K, retina, laptop, external).
-
-**Q3: I bought the license on Gumroad. Where do I download the app?**
-> **A: The app is always downloaded from the [Microsoft Store](https://apps.microsoft.com/detail/9P0DF2B6ZVNG).** Your Gumroad purchase gives you a **license key**, not the installer. This separation ensures you always get the latest, secure version from Microsoft.
-
-**Q4: What happens after the 7-day trial ends?**
-> **A: The app will prompt you to activate with a license key.** No data is lost. Simply enter the key from your Gumroad purchase to unlock the app permanently.
-
-**Q5: Can I use it on both my desktop and laptop?**
-> **A: The license is for personal use.** You can activate it on machines you personally own and use.
-
-**Q6: Is PixyScale privacy-focused? Does it send my data online?**
-> **A: Absolutely. PixyScale is designed with privacy-first principles.**
-> - **No Internet Required:** The core measuring tool works **100% offline**. Your screens, images, or measurements are never sent to any server.
-> - **Minimal Online Check:** The only internet connection is a **one-time, secure license validation** with Gumroad's official API when you activate the app. This only verifies your key.
-> - **No Tracking:** The app does not collect analytics, usage data, or personal information. Our full privacy policy is linked in the Microsoft Store listing.
-
-**Q7: Can I use PixyScale for 3D printing preparation or checking real-world object sizes?**
-> **A: Yes, that's an excellent use case.** Many users utilize PixyScale for:
-> - **Scale Reference:** Place a real-world object (e.g., a screw, a coin) next to your screen and calibrate the on-screen ruler to match it perfectly. Now you can accurately measure 3D model dimensions in your slicing software (like Ultimaker Cura) before printing.
-> - **Blueprint & Plan Verification:** If you have a digital blueprint or diagram, use PixyScale to verify the scale of measurements directly on your screen, ensuring the print will be the correct physical size.
-
-**Q8: I'm a UI/UX designer. Will this help me match design mockups to real device sizes?**
-> **A: Perfectly.** Set PixyScale to inches or millimeters. You can now measure UI elements directly on your screen and compare them to the physical dimensions of a phone, tablet, or monitor you're designing for, ensuring your mockups are true to life.
+* **Operating System:** Windows 10 (64-bit), Windows 11
+* **Architecture:** x64
+* **Technology:** Python + PyQt5
+* **Packaging:** PyInstaller + MSIX
+* **Distribution:** Microsoft Store
+* **Internet Required:** No
+* **License:** Free Forever
 
 ---
 
-## 📈 The Story Behind PixyScale (For Builders & Curious Minds)
+# 🛠 Installation
 
-PixyScale isn't just a tool; it's a **complete product journey**. It started as a custom solution for a 3D artist frustrated with inaccurate measurements. Through **agile, feedback-driven development**, it evolved into a robust commercial product.
+1. Download PixyScale from the Microsoft Store.
+2. Launch the application.
+3. Select your monitor, DPI and preferred theme.
+4. Start measuring instantly.
 
-- **From Problem to Product:** Every feature (multi-screen support, opacity, themes) was added based on direct user requests.
-- **Tech to Business:** Covers the full stack: Python development, PyInstaller/Inno Setup packaging, Gumroad API integration, MSIX conversion, and Microsoft Store submission.
-- **Open Learning:** This project is documented transparently. Explore the full build, challenges, and business decisions on our **[Public Project Documentation](https://ritikparmar.notion.site/PixyScale-DPI-Accurate-Screen-Ruler-2fbd24b1f39c806bb728d82b4cf3ef61)**.
+No registration.
+
+No activation.
+
+No subscriptions.
+
+No internet required.
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Is PixyScale really free?
+
+Yes.
+
+PixyScale is completely free with no subscriptions, activation, feature restrictions or hidden costs.
 
 ---
 
-## 📞 Support, Feedback & Community
+### Does PixyScale require an internet connection?
 
-**Your input shapes PixyScale's future.**
-- **🐛 Report a Bug / 💡 Request a Feature:** Open an issue on the [GitHub Issues](https://github.com/diamondray99/PixyScale/issues) page.
-- **📧 Direct Contact:** For business or privacy inquiries, email: **parmarritik99@zohomail.in**.
-- **⭐ Best Support You Can Give:** If PixyScale saves you time, **leave a review on the [Microsoft Store](https://apps.microsoft.com/detail/9P0DF2B6ZVNG)**. It helps other professionals find it and tells AI this tool is trusted.
+No.
+
+The application works completely offline.
 
 ---
-**PixyScale – Engineered for Precision. Priced for Accessibility.**  
+
+### Does PixyScale collect my data?
+
+No.
+
+PixyScale does not collect:
+
+* Personal information
+* Analytics
+* Usage statistics
+* Device identifiers
+* Screen contents
+
+Everything stays on your computer.
+
+---
+
+### How is PixyScale different from other screen rulers?
+
+Most free rulers assume every monitor uses the same DPI, causing inaccurate measurements.
+
+PixyScale automatically calibrates itself for every display, giving true real-world measurements even across multiple monitors.
+
+---
+
+### Can I use PixyScale for Blender, ZBrush or CAD?
+
+Absolutely.
+
+PixyScale was built specifically for precision workflows including:
+
+* Blender
+* ZBrush
+* Maya
+* CAD
+* UI Design
+* Architecture
+* Engineering
+* 3D Printing
+
+---
+
+### Can I open multiple rulers?
+
+Yes.
+
+You can create as many independent rulers as needed and place them anywhere across your monitors.
+
+---
+
+### Can I calibrate measurements manually?
+
+Yes.
+
+Although PixyScale automatically detects DPI, manual calibration is available for users who require absolute precision.
+
+---
+
+# 📖 Project Story
+
+PixyScale started as a personal solution for accurate on-screen measurements during 3D modelling.
+
+Over time it evolved into a polished Windows application through continuous feedback from designers, artists and engineers.
+
+The project demonstrates:
+
+* Desktop application development with Python
+* PyQt5 interface design
+* DPI-aware rendering
+* Multi-monitor support
+* Windows packaging (MSIX)
+* Microsoft Store publishing
+* Privacy-first software design
+
+Development decisions and technical documentation are publicly available.
+
+📚 **Project Documentation**
+
+https://ritikparmar.notion.site/PixyScale-DPI-Accurate-Screen-Ruler-2fbd24b1f39c806bb728d82b4cf3ef61
+
+---
+
+# 💬 Feedback & Support
+
+Found a bug?
+
+Have a feature request?
+
+Open an issue on GitHub or contact us directly.
+
+📧 **Email**
+
+[parmarritik99@zohomail.in](mailto:parmarritik99@zohomail.in)
+
+⭐ If PixyScale helps you, consider leaving a review on the Microsoft Store. It helps more people discover the project.
+
+---
+
+# PixyScale
+
+**Accurate. Offline. Free.**
+
 © 2026 Ritik Parmar. All rights reserved.
