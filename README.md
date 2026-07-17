@@ -6,7 +6,6 @@ Unlike traditional screen rulers that assume every display has the same DPI, Pix
 
 [![Download Free](https://img.shields.io/badge/Microsoft_Store-✅_Download_Free-0078D4?style=for-the-badge\&logo=microsoft)](https://apps.microsoft.com/detail/9P0DF2B6ZVNG)
 [![License](https://img.shields.io/badge/License-Free_Forever-28a745?style=for-the-badge)](#)
-[![Project Documentation](https://img.shields.io/badge/Notion-📚_Full_Technical_Docs-000000?style=for-the-badge\&logo=notion)](https://ritikparmar.notion.site/PixyScale-DPI-Accurate-Screen-Ruler-2fbd24b1f39c806bb728d82b4cf3ef61)
 
 ---
 
@@ -207,29 +206,6 @@ Although PixyScale automatically detects DPI, manual calibration is available fo
 
 ---
 
-# 📖 Project Story
-
-PixyScale started as a personal solution for accurate on-screen measurements during 3D modelling.
-
-Over time it evolved into a polished Windows application through continuous feedback from designers, artists and engineers.
-
-The project demonstrates:
-
-* Desktop application development with Python
-* PyQt5 interface design
-* DPI-aware rendering
-* Multi-monitor support
-* Windows packaging (MSIX)
-* Microsoft Store publishing
-* Privacy-first software design
-
-Development decisions and technical documentation are publicly available.
-
-📚 **Project Documentation**
-
-https://ritikparmar.notion.site/PixyScale-DPI-Accurate-Screen-Ruler-2fbd24b1f39c806bb728d82b4cf3ef61
-
----
 
 # 💬 Feedback & Support
 
